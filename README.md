@@ -1,4 +1,4 @@
-# Soccer Player Analysis
+# Object and Motion Analysis using machine learning
 
 A computer vision system for analyzing soccer matches, detecting players, tracking movements, and identifying key events like fouls and offsides.
 
